@@ -8,8 +8,8 @@ How the game functions when the player wins
 
 How the game functions when the player loses
 
-![](images/images3.JPG)
+![](images/image3.JPG)
 
 And how the functions when the player has a tie with the computer
 
-![](images/images2.JPG)
+![](images/image2.JPG)
